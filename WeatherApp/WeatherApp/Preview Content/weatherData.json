@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -74.006,
+        "lat": 40.7143
+    },
+    "weather": [
+        {
+            "id": 741,
+            "main": "Fog",
+            "description": "fog",
+            "icon": "50n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": -0.19,
+        "feels_like": -3.81,
+        "temp_min": -4.75,
+        "temp_max": 2.34,
+        "pressure": 1020,
+        "humidity": 79
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.09,
+        "deg": 30
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1677666722,
+    "sys": {
+        "type": 2,
+        "id": 2008776,
+        "country": "US",
+        "sunrise": 1677670236,
+        "sunset": 1677710794
+    },
+    "timezone": -18000,
+    "id": 5128581,
+    "name": "New York",
+    "cod": 200
+}
